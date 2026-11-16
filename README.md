@@ -1,4 +1,4 @@
-# AI Campus Chatbot Course
+# DEV AI Campus Chatbot Course
 
 This repository provides a GitHub Codespace for the hands-on [AI Campus](https://www.ai-campus.org/) course on conversational AI: **[Step by Step zu deinem Chatbot - KI praktisch anwenden!](https://ki-campus.org/courses/conversational-ai)**.
 
